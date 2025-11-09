@@ -5,6 +5,6 @@ Whether it’s web design, app development, or digital marketing — I’ve got 
 📩 Reach Us On:
 🌐 Website: www.marzleytechsolutions.com
 
-💻 GitHub: https://github.com/kelvinwanyoike
+💻 Lint to project: https://marzley.github.io/hospital-Management-system/
 
 ✨ Let’s build, create, and innovate together — because at Marzley Tech Solutions, we’re Turning Ideas Into Reality!
